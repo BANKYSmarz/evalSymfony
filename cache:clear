@@ -1,0 +1,24 @@
+Script démarré sur 2023-06-07 10:41:04+02:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004hroot@debian:/var/www/html/evalSymfony# cc[Kache:clear
+[?2004lbash: cache:clear : commande introuvable
+[?2004hroot@debian:/var/www/html/evalSymfony# cd ..
+[?2004l[?2004hroot@debian:/var/www/html# ls -a
+[?2004l.  ..  evalSymfony  index.html	projet1
+[?2004hroot@debian:/var/www/html# chown -R marz:marz evalSymfony/
+[?2004lchown: utilisateur incorrect: « marz:marz »
+[?2004hroot@debian:/var/www/html# tail /etc/passwd
+[?2004ldnsmasq:x:110:65534:dnsmasq,,,:/var/lib/misc:/usr/sbin/nologin
+avahi:x:111:117:Avahi mDNS daemon,,,:/run/avahi-daemon:/usr/sbin/nologin
+speech-dispatcher:x:112:29:Speech Dispatcher,,,:/run/speech-dispatcher:/bin/false
+pulse:x:113:119:PulseAudio daemon,,,:/run/pulse:/usr/sbin/nologin
+saned:x:114:122::/var/lib/saned:/usr/sbin/nologin
+colord:x:115:123:colord colour management daemon,,,:/var/lib/colord:/usr/sbin/nologin
+geoclue:x:116:124::/var/lib/geoclue:/usr/sbin/nologin
+Debian-gdm:x:117:125:Gnome Display Manager:/var/lib/gdm3:/bin/false
+bankole2023:x:1000:1000:bankole2023,,,:/home/bankole2023:/bin/bash
+systemd-coredump:x:999:999:systemd Core Dumper:/:/usr/sbin/nologin
+[?2004hroot@debian:/var/www/html# tail /etc/passwdchown -R marz:marz evalSymfony/[C[1P evalSymfony/[1P evalSymfony/[1P evalSymfony/[1P evalSymfony/[1P evalSymfony/[1P evalSymfony/[1P evalSymfony/[1P evalSymfony/[1P evalSymfony/b evalSymfony/a evalSymfony/n evalSymfony/k evalSymfony/o evalSymfony/l evalSymfony/e evalSymfony/2 evalSymfony/0 evalSymfony/2 evalSymfony/3 evalSymfony/: evalSymfony/b evalSymfony/a evalSymfony/n evalSymfony/k evalSymfony/o evalSymfony/l evalSymfony/e evalSymfony/2 evalSymfony/0 evalSymfony/2 evalSymfony/3 evalSymfony/
+[?2004l[?2004hroot@debian:/var/www/html# [?2004l
+exit
+
+Script terminé sur 2023-06-07 10:45:13+02:00 [COMMAND_EXIT_CODE="0"]
